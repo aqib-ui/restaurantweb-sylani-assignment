@@ -1,0 +1,351 @@
+/* @media only screen and (max-width: 600px){ */
+    /* .container-fluid{
+        background-color: blueviolet;
+    } */
+.first{
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background-color: #b00045;
+    color: whitesmoke;
+    text-align: center;
+    font-size:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:opx;
+}
+.paragraph{
+    
+   
+    margin-top: 5px;
+    padding-left: 30px;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    /* text-align: center; */
+   
+    padding-top:20px ;
+    width: 800px;
+   margin-left: 8px;
+     
+    
+}
+.right{
+background-color:brown;
+border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 8px;
+    padding-bottom: 5px;
+    
+
+}
+.cards{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 45px;
+    float: right;
+
+}
+.h{
+    font-family: cursive;
+    color: darkgray;
+}
+.hh{
+    font-family: cursive;
+    color: lightgray;
+    padding-top: 10px;
+}
+.hhh{
+   
+    color: darkgrey;
+    padding-left: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contain{
+    background-color: darkgray;
+}
+.second{
+    background-color: #b00045;
+    /* color: whitesmoke; */
+    margin-top: 8px;
+    padding-top: 10px;
+    border-radius: 8px;
+    padding-bottom: 10px;
+}
+.main{
+    background-color: brown;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.imf{
+    display: flex;
+    flex-wrap: wrap;
+}
+.chi{
+    padding-left: 28px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.ch{
+    border-radius: 15px;
+    box-shadow:4px 4px 4px 4px  darkgray;
+    
+}
+.imh{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.ch:hover{
+    background-color: wheat;
+    opacity: 0.5;
+}
+.footer{
+    background-color:#b00045 ;
+    margin-top: 8px;
+    border-radius: 5px;
+    color: darkgray;
+    padding-bottom: 8px;
+    padding-top: 10px;
+}
+.scroll{
+    float:right;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    
+}
+
+
+
+
+
+.menu{
+    background-color:darkgray ; 
+   padding-bottom: 10px;
+}
+
+.head{
+    background-color: #b00045;
+    color:whitesmoke;
+}
+.mainly{
+    background-image: url("images/bg1.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   padding-bottom: 20px;
+}
+.con{
+    background-image: url("images/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.des{
+    background-image: url("images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.tur{
+    background-image: url("images/bg4.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.vag{
+    background-image: url("images/bg5.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+.itali{
+    background-image: url("images/bg6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+/* .headeac > nav{
+    background-color:#b00045 !important;
+    border-radius: 5px !important;
+    color: white !important;
+} */
+.header> nav{
+    margin-top: 8px !important;
+    background-image: url(images/gra.jpg );
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+}
+.navbar-nav>li{
+    padding-left: 10px !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px !important;
+    
+}
+.navbar-nav>li :hover{
+    background-color: brown;
+    opacity: 0.9;   
+    color:blue !important;
+    border-radius: 5px;
+}
+.per{
+    font-weight: bold;
+    font-size: 25px;
+    color: salmon;
+}
+.pera{
+    color: darkgreen;
+    font-family: cursive;
+    font-size: 28px;
+}
+
+.marq{
+    background-image: url(images/gra.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-top: 8px !important;
+  
+    
+}
+.submarq> marquee{
+    color:white;
+}
+.heade> nav{
+   
+    background-image: url(images/gra.jpg );
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+}
+.headar> nav{
+   margin-top: 8px;
+   margin-bottom: 8px;
+    background-image: url(images/gra.jpg );
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    
+}
+
+.marque{
+    background-image: url(images/gra.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin-top: 8px !important;
+  text-align: center;
+    
+}
+.submarq> marquee{
+    color:white;
+}
+.mainc{
+    background-color: darkgrey;
+    margin-top: -10px ;
+}
+.submarq > marquee{
+    justify-content: center;
+    text-align: center;
+}
+.philo{
+    background-color:#b00045 ;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.w{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: cursive;
+}
+.how{
+    text-align: center;
+    margin-top: 10px;
+}
+.whe{
+    text-align: center;
+}
+.bol{
+    font-weight: bold;
+    justify-content: center;
+    font-size: 20px;
+    font-family: cursive;
+}
+.car{
+    margin-top: 20px;
+    
+}
+.phi > img{
+    justify-content: center;
+}
+.log{
+    border-radius: 8px;
+    justify-content: left;
+    padding-left: 5px;
+}
+.foot{
+    justify-content: left;
+}
+.mean{
+    background-color: darkgray;
+    /* padding-top: 20px; */
+}
+.mainform{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.btnn{
+    text-align: center;
+    padding-top: 50px;
+}
+.mainform{
+    border: 5px solid white;
+}
+#sub:hover{
+    background-color: thistle;
+    color: yellow;
+}
+#sub{
+    color: darkorchid;
+    border: 2px solid darkorchid;
+    height: 40px;
+    width: 120px;
+}
+.imges{
+    text-align: center;
+    padding-top: 80px;
+}
+.imgess{
+    text-align: center;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgesss{
+    text-align: center;
+    color: darkblue;
+    opacity: 0.8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.imgessss{
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+}
